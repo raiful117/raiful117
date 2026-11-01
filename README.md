@@ -1,5 +1,3 @@
-# 🌌⭐ **WELLCOME OUR PROFILE** ⭐🌌
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=RaiFuL&fontSize=120&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⚡%20AI%20ENGINEER%20•%20DEVELOPER%20•%20CYBER%20SECURITY%20⚡&descAlignY=65&descSize=24" width="100%"/>
